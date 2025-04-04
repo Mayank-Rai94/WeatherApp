@@ -11,7 +11,6 @@ An elegant Weather Forecast App built with **Android (Kotlin)** that shows real-
 - 📍 Get current weather by location or city name
 - 🌡️ Shows temperature, humidity, wind speed, etc.
 - 🌤️ Beautiful **animated weather icons**
-- 🔄 Pull-to-refresh functionality
 - 📱 Fully responsive and intuitive UI
 - 🎨 Custom splash screen with animation
 
@@ -27,7 +26,6 @@ An elegant Weather Forecast App built with **Android (Kotlin)** that shows real-
 ## 🛠️ Tech Stack
 
 - **Language**: Kotlin
-- **Architecture**: MVVM
 - **Libraries**:
   - Glide – for image loading
   - Koral – for animated splash screen
