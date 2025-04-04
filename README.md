@@ -20,7 +20,7 @@ An elegant Weather Forecast App built with **Android (Kotlin)** that shows real-
 ## 📸 Screenshots
 
 <!-- Add screenshots of your app here -->
-<img src="screenshots/screen1.png" width="200"/> <img src="screenshots/screen2.png" width="200"/> <img src="screenshots/screen3.png" width="200"/>
+<img src="https://github.com/Mayank-Rai94/WeatherApp/blob/8ffc10d5886294ccf8b5d334756c2863056525b1/Weather1.jpg" width="200"/> <img src="screenshots/screen2.png" width="200"/> <img src="(https://github.com/Mayank-Rai94/WeatherApp/blob/8ffc10d5886294ccf8b5d334756c2863056525b1/Weather2.jpg)" width="200"/>
 
 ---
 
