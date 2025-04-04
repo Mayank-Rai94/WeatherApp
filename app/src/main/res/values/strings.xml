@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="hello">Hello</string>
+    <string name="which_indian_food_would_you_n_like_to_cook">Which Indian food would you \n like to cook?</string>
+</resources>
